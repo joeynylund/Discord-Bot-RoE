@@ -1,3 +1,3 @@
 # Discord-Bot-RoE
 
-Verify games hours on Ring of Elysium on Steam and give permissions based on # of hours played.
+Discord Bot built with Node.JS that checks how many hours a user has played Ring of Elysium using the Steam API.
